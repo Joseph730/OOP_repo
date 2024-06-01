@@ -9,7 +9,7 @@ namespace cursach_3.DATA
         public string Category_Name { get; set; }
         public int Rating { get; set; }
         public DateTime Creation_Date {  get; set; }
-        public long Photo_Folder_ID { get; set; }
+        public long Photo_folder_ID { get; set; }
 
         public List<Commentary_DATA> Commentary_List { get; set; } = [];
 
@@ -37,7 +37,7 @@ namespace cursach_3.DATA
             entityTypeBuilder
                 .HasOne(e => e.Photo)
                 .WithOne(e => e.Article)
-                .HasForeignKey<Photo_folder_DATA>(e => e.Photo_Folder_ID);
+                .HasForeignKey<Photo_folder_DATA>(e => e.Photo_folder_ID);
             entityTypeBuilder
                 .HasOne(e => e.File)
                 .WithOne(e => e.Article);
