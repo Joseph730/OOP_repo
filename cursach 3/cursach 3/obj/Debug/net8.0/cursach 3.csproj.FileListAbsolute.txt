@@ -140,3 +140,16 @@ F:\docs\институт\ООП и БД\курсовая\Sport_network\cursach 3
 F:\docs\институт\ООП и БД\курсовая\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.pdb
 F:\docs\институт\ООП и БД\курсовая\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.genruntimeconfig.cache
 F:\docs\институт\ООП и БД\курсовая\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\ref\cursach 3.dll
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.csproj.AssemblyReference.cache
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.AssemblyInfoInputs.cache
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.AssemblyInfo.cs
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.csproj.CoreCompileInputs.cache
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.MvcApplicationPartsAssemblyInfo.cs
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.MvcApplicationPartsAssemblyInfo.cache
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.RazorAssemblyInfo.cache
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.RazorAssemblyInfo.cs
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.sourcelink.json
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.dll
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\refint\cursach 3.dll
+F:\docs\институт\ООП и БД\курсовая\git\Sport_network\cursach 3\cursach 3\obj\Debug\net8.0\cursach 3.pdb

@@ -3,7 +3,7 @@ namespace cursach_3.DATA
 {
     public class Photo_folder_DATA
     {
-        internal object Photo_Folder_ID;
+        
 
         public long Photo_folder_ID { get; set; }
         public string Photo_folder_Desc { get; set; }

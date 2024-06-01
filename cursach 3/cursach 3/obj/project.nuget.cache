@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KRTHJ+/HyNo=",
+  "dgSpecHash": "1bsoCB+xRZA=",
   "success": true,
-  "projectFilePath": "F:\\docs\\институт\\ООП и БД\\курсовая\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj",
+  "projectFilePath": "F:\\docs\\институт\\ООП и БД\\курсовая\\git\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mayze\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mayze\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -88,5 +88,12 @@
     "C:\\Users\\mayze\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\mayze\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

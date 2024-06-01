@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\docs\\институт\\ООП и БД\\курсовая\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj": {}
+    "F:\\docs\\институт\\ООП и БД\\курсовая\\git\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj": {}
   },
   "projects": {
-    "F:\\docs\\институт\\ООП и БД\\курсовая\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj": {
+    "F:\\docs\\институт\\ООП и БД\\курсовая\\git\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\docs\\институт\\ООП и БД\\курсовая\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj",
+        "projectUniqueName": "F:\\docs\\институт\\ООП и БД\\курсовая\\git\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj",
         "projectName": "cursach 3",
-        "projectPath": "F:\\docs\\институт\\ООП и БД\\курсовая\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj",
+        "projectPath": "F:\\docs\\институт\\ООП и БД\\курсовая\\git\\Sport_network\\cursach 3\\cursach 3\\cursach 3.csproj",
         "packagesPath": "C:\\Users\\mayze\\.nuget\\packages\\",
-        "outputPath": "F:\\docs\\институт\\ООП и БД\\курсовая\\Sport_network\\cursach 3\\cursach 3\\obj\\",
+        "outputPath": "F:\\docs\\институт\\ООП и БД\\курсовая\\git\\Sport_network\\cursach 3\\cursach 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mayze\\AppData\\Roaming\\NuGet\\NuGet.Config",

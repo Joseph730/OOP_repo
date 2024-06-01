@@ -1,138 +1,138 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\",
+  "WorkspaceRootPath": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\user\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\user\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\topic\\updatetopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\topic\\updatetopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\topic\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\topic\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\topic\\createtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\topic\\createtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\thread\\createthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\thread\\createthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\thread\\updatethread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\thread\\updatethread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\thread\\threaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\thread\\threaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\photo_folder\\updatephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\photo_folder\\updatephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\photo_folder\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\photo_folder\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\photo_folder\\createphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\photo_folder\\createphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\file_archive\\updatefile_archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\file_archive\\updatefile_archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\file_archive\\file_archivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\file_archive\\file_archivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\file_archive\\createfile_archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\file_archive\\createfile_archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\commentary\\updatecommentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\commentary\\updatecommentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\commentary\\createcommentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\commentary\\createcommentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\commentary\\commentarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\commentary\\commentarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\author\\updateauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\author\\updateauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\author\\createauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\author\\createauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\author\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\author\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\article\\updatearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\article\\updatearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\dto\\article\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\article\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\data\\user_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\user_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\data\\topic_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\topic_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\data\\thread_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\thread_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\data\\photo_folder_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\photo_folder_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\data\\file_archive_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\file_archive_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\data\\commentary_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\commentary_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\data\\author_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\author_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\data\\article_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\data\\article_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\article_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\sport_network\\cursach 3\\cursach 3\\data\\event_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\data\\user_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\user_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\data\\topic_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\topic_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\data\\thread_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\thread_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\data\\photo_folder_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\photo_folder_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\data\\file_archive_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\file_archive_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\data\\event_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\event_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\data\\commentary_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\commentary_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\data\\author_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\data\\author_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\user\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\user\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\topic\\updatetopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\topic\\updatetopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\topic\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\topic\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\topic\\createtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\topic\\createtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\thread\\createthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\thread\\createthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\thread\\updatethread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\thread\\updatethread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\thread\\threaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\thread\\threaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\photo_folder\\updatephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\photo_folder\\updatephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\photo_folder\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\photo_folder\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\photo_folder\\createphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\photo_folder\\createphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\file_archive\\updatefile_archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\file_archive\\updatefile_archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\file_archive\\file_archivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\file_archive\\file_archivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\file_archive\\createfile_archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\file_archive\\createfile_archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\commentary\\updatecommentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\commentary\\updatecommentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\commentary\\createcommentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\commentary\\createcommentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\commentary\\commentarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\commentary\\commentarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\author\\updateauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\author\\updateauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\author\\createauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\author\\createauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\author\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\author\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\article\\updatearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\article\\updatearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|f:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u043E\u043E\u043F \u0438 \u0431\u0434\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\sport_network\\cursach 3\\cursach 3\\dto\\article\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B6534-311B-4DF9-A177-88BCB772833F}|cursach 3\\cursach 3.csproj|solutionrelative:cursach 3\\dto\\article\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -151,88 +151,127 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CreateThread.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\CreateThread.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Thread\\CreateThread.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\CreateThread.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Thread\\CreateThread.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Title": "Event_DATA.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Event_DATA.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DATA\\Event_DATA.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Event_DATA.cs",
+              "RelativeToolTip": "cursach 3\\DATA\\Event_DATA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:30:51.258Z",
+              "WhenOpened": "2024-05-31T18:22:12.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CreateTopic.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\CreateTopic.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Topic\\CreateTopic.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\CreateTopic.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Topic\\CreateTopic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Title": "File_Archive_DATA.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\File_Archive_DATA.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DATA\\File_Archive_DATA.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\File_Archive_DATA.cs",
+              "RelativeToolTip": "cursach 3\\DATA\\File_Archive_DATA.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwA8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:31:13.718Z",
+              "WhenOpened": "2024-05-31T18:23:55.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TopicDTO.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\TopicDTO.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Topic\\TopicDTO.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\TopicDTO.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Topic\\TopicDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Title": "Photo_folder_DATA.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Photo_folder_DATA.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DATA\\Photo_folder_DATA.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Photo_folder_DATA.cs",
+              "RelativeToolTip": "cursach 3\\DATA\\Photo_folder_DATA.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:31:22.733Z",
+              "WhenOpened": "2024-05-31T18:20:33.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UpdateTopic.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\UpdateTopic.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Topic\\UpdateTopic.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\UpdateTopic.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Topic\\UpdateTopic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Title": "Thread_DATA.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Thread_DATA.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DATA\\Thread_DATA.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Thread_DATA.cs",
+              "RelativeToolTip": "cursach 3\\DATA\\Thread_DATA.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:31:18.655Z",
+              "WhenOpened": "2024-05-31T18:22:32.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateUser.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\CreateUser.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\User\\CreateUser.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\CreateUser.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\User\\CreateUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "Topic_DATA.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Topic_DATA.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DATA\\Topic_DATA.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Topic_DATA.cs",
+              "RelativeToolTip": "cursach 3\\DATA\\Topic_DATA.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:31:45.811Z",
+              "WhenOpened": "2024-05-31T18:22:43.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateUser.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\UpdateUser.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\User\\UpdateUser.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\UpdateUser.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\User\\UpdateUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "User_DATA.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\User_DATA.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DATA\\User_DATA.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\User_DATA.cs",
+              "RelativeToolTip": "cursach 3\\DATA\\User_DATA.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:31:52.647Z",
+              "WhenOpened": "2024-05-31T18:20:17.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Article_DATA.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Article_DATA.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DATA\\Article_DATA.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Article_DATA.cs",
+              "RelativeToolTip": "cursach 3\\DATA\\Article_DATA.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwCcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:22:56.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Commentary_DATA.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Commentary_DATA.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DATA\\Commentary_DATA.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Commentary_DATA.cs",
+              "RelativeToolTip": "cursach 3\\DATA\\Commentary_DATA.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:23:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author_DATA.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Author_DATA.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DATA\\Author_DATA.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DATA\\Author_DATA.cs",
+              "RelativeToolTip": "cursach 3\\DATA\\Author_DATA.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:20:44.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\UserDTO.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\UserDTO.cs",
               "RelativeDocumentMoniker": "cursach 3\\DTO\\User\\UserDTO.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\UserDTO.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\UserDTO.cs",
               "RelativeToolTip": "cursach 3\\DTO\\User\\UserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -241,340 +280,279 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateThread.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\UpdateThread.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Thread\\UpdateThread.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\UpdateThread.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Thread\\UpdateThread.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:31:00.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ThreadDTO.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\ThreadDTO.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Thread\\ThreadDTO.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\ThreadDTO.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Thread\\ThreadDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:31:04.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdatePhoto.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\UpdatePhoto.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Photo_folder\\UpdatePhoto.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\UpdatePhoto.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Photo_folder\\UpdatePhoto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:30:34.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "PhotoDTO.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\PhotoDTO.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Photo_folder\\PhotoDTO.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\PhotoDTO.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Photo_folder\\PhotoDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\User\\UpdateUser.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\UpdateUser.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\User\\UpdateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:30:39.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:31:52.647Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CreatePhoto.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\CreatePhoto.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Photo_folder\\CreatePhoto.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\CreatePhoto.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Photo_folder\\CreatePhoto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\CreateUser.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\User\\CreateUser.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\User\\CreateUser.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\User\\CreateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:30:25.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:31:45.811Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "UpdateFile_Archive.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\UpdateFile_Archive.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\File_Archive\\UpdateFile_Archive.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\UpdateFile_Archive.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\File_Archive\\UpdateFile_Archive.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Title": "UpdateTopic.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\UpdateTopic.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Topic\\UpdateTopic.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\UpdateTopic.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Topic\\UpdateTopic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:20:29.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:31:18.655Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "File_ArchiveDTO.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\File_ArchiveDTO.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\File_Archive\\File_ArchiveDTO.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\File_ArchiveDTO.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\File_Archive\\File_ArchiveDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Title": "TopicDTO.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\TopicDTO.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Topic\\TopicDTO.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\TopicDTO.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Topic\\TopicDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:20:35.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:31:22.733Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CreateFile_Archive.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\CreateFile_Archive.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\File_Archive\\CreateFile_Archive.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\CreateFile_Archive.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\File_Archive\\CreateFile_Archive.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Title": "CreateTopic.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\CreateTopic.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Topic\\CreateTopic.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Topic\\CreateTopic.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Topic\\CreateTopic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:20:21.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:31:13.718Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "UpdateCommentary.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\UpdateCommentary.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Commentary\\UpdateCommentary.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\UpdateCommentary.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Commentary\\UpdateCommentary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Title": "CreateThread.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\CreateThread.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Thread\\CreateThread.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\CreateThread.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Thread\\CreateThread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:17:25.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:30:51.258Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "CreateCommentary.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\CreateCommentary.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Commentary\\CreateCommentary.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\CreateCommentary.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Commentary\\CreateCommentary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Title": "UpdateThread.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\UpdateThread.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Thread\\UpdateThread.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\UpdateThread.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Thread\\UpdateThread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:17:16.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:31:00.065Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "CommentaryDTO.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\CommentaryDTO.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Commentary\\CommentaryDTO.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\CommentaryDTO.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Commentary\\CommentaryDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAArAAAA",
+              "Title": "ThreadDTO.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\ThreadDTO.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Thread\\ThreadDTO.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Thread\\ThreadDTO.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Thread\\ThreadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:17:30.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:31:04.954Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "UpdateAuthor.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\UpdateAuthor.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Author\\UpdateAuthor.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\UpdateAuthor.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Author\\UpdateAuthor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Title": "UpdatePhoto.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\UpdatePhoto.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Photo_folder\\UpdatePhoto.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\UpdatePhoto.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Photo_folder\\UpdatePhoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:15:27.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:30:34.302Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "CreateAuthor.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\CreateAuthor.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Author\\CreateAuthor.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\CreateAuthor.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Author\\CreateAuthor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Title": "PhotoDTO.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\PhotoDTO.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Photo_folder\\PhotoDTO.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\PhotoDTO.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Photo_folder\\PhotoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:14:30.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:30:39.102Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "AuthorDTO.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\AuthorDTO.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Author\\AuthorDTO.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\AuthorDTO.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Author\\AuthorDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Title": "CreatePhoto.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\CreatePhoto.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Photo_folder\\CreatePhoto.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Photo_folder\\CreatePhoto.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Photo_folder\\CreatePhoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:15:36.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:30:25.629Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "UpdateArticle.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\UpdateArticle.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Article\\UpdateArticle.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\UpdateArticle.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Article\\UpdateArticle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Title": "UpdateFile_Archive.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\UpdateFile_Archive.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\File_Archive\\UpdateFile_Archive.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\UpdateFile_Archive.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\File_Archive\\UpdateFile_Archive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:14:05.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:20:29.897Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "CreateArticle.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\CreateArticle.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Article\\CreateArticle.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\CreateArticle.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Article\\CreateArticle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Title": "File_ArchiveDTO.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\File_ArchiveDTO.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\File_Archive\\File_ArchiveDTO.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\File_ArchiveDTO.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\File_Archive\\File_ArchiveDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:13:54.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:20:35.329Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ArticleDTO.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\ArticleDTO.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DTO\\Article\\ArticleDTO.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\ArticleDTO.cs",
-              "RelativeToolTip": "cursach 3\\DTO\\Article\\ArticleDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAArAAAA",
+              "Title": "CreateFile_Archive.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\CreateFile_Archive.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\File_Archive\\CreateFile_Archive.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\File_Archive\\CreateFile_Archive.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\File_Archive\\CreateFile_Archive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:14:14.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:20:21.124Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "User_DATA.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\User_DATA.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DATA\\User_DATA.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\User_DATA.cs",
-              "RelativeToolTip": "cursach 3\\DATA\\User_DATA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Title": "UpdateCommentary.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\UpdateCommentary.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Commentary\\UpdateCommentary.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\UpdateCommentary.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Commentary\\UpdateCommentary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:20:17.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:17:25.061Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Topic_DATA.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Topic_DATA.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DATA\\Topic_DATA.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Topic_DATA.cs",
-              "RelativeToolTip": "cursach 3\\DATA\\Topic_DATA.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Title": "CreateCommentary.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\CreateCommentary.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Commentary\\CreateCommentary.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\CreateCommentary.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Commentary\\CreateCommentary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:22:43.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:17:16.677Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "Thread_DATA.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Thread_DATA.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DATA\\Thread_DATA.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Thread_DATA.cs",
-              "RelativeToolTip": "cursach 3\\DATA\\Thread_DATA.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAkwAUAAAAIAAAA",
+              "Title": "CommentaryDTO.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\CommentaryDTO.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Commentary\\CommentaryDTO.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Commentary\\CommentaryDTO.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Commentary\\CommentaryDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:22:32.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:17:30.662Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Photo_folder_DATA.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Photo_folder_DATA.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DATA\\Photo_folder_DATA.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Photo_folder_DATA.cs",
-              "RelativeToolTip": "cursach 3\\DATA\\Photo_folder_DATA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Title": "UpdateAuthor.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\UpdateAuthor.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Author\\UpdateAuthor.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\UpdateAuthor.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Author\\UpdateAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:20:33.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:15:27.947Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "File_Archive_DATA.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\File_Archive_DATA.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DATA\\File_Archive_DATA.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\File_Archive_DATA.cs",
-              "RelativeToolTip": "cursach 3\\DATA\\File_Archive_DATA.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwA8AAAAxAAAA",
+              "Title": "CreateAuthor.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\CreateAuthor.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Author\\CreateAuthor.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\CreateAuthor.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Author\\CreateAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:23:55.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:14:30.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Commentary_DATA.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Commentary_DATA.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DATA\\Commentary_DATA.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Commentary_DATA.cs",
-              "RelativeToolTip": "cursach 3\\DATA\\Commentary_DATA.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAwAAAAIAAAA",
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Author\\AuthorDTO.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Author\\AuthorDTO.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Author\\AuthorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:23:35.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:15:36.7Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Author_DATA.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Author_DATA.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DATA\\Author_DATA.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Author_DATA.cs",
-              "RelativeToolTip": "cursach 3\\DATA\\Author_DATA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Title": "UpdateArticle.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\UpdateArticle.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Article\\UpdateArticle.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\UpdateArticle.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Article\\UpdateArticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:20:44.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:14:05.502Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "Article_DATA.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Article_DATA.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DATA\\Article_DATA.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Article_DATA.cs",
-              "RelativeToolTip": "cursach 3\\DATA\\Article_DATA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Title": "CreateArticle.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\CreateArticle.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Article\\CreateArticle.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\CreateArticle.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Article\\CreateArticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:22:56.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:13:54.669Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "Event_DATA.cs",
-              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Event_DATA.cs",
-              "RelativeDocumentMoniker": "cursach 3\\DATA\\Event_DATA.cs",
-              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Sport_network\\cursach 3\\cursach 3\\DATA\\Event_DATA.cs",
-              "RelativeToolTip": "cursach 3\\DATA\\Event_DATA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABdAAAA",
+              "Title": "ArticleDTO.cs",
+              "DocumentMoniker": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\ArticleDTO.cs",
+              "RelativeDocumentMoniker": "cursach 3\\DTO\\Article\\ArticleDTO.cs",
+              "ToolTip": "F:\\docs\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041E\u041E\u041F \u0438 \u0411\u0414\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\git\\Sport_network\\cursach 3\\cursach 3\\DTO\\Article\\ArticleDTO.cs",
+              "RelativeToolTip": "cursach 3\\DTO\\Article\\ArticleDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:22:12.927Z"
+              "WhenOpened": "2024-06-01T14:14:14.225Z"
             }
           ]
         }
